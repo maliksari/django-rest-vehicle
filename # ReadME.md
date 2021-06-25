@@ -39,3 +39,10 @@
             - /views.py
         -/manage.py
 
+## -------------------------------------------------------
+
+# SETUP
+
+ - python -m pip install Django
+ - python -m pip install psycopg2
+ - python -m pip install djangorestframework
